@@ -1,6 +1,8 @@
 <?php
 require("easybitcoin.php");
 
+//you can undo the comment and print the value of a function or use it . 
+
 $bitcoin = new Bitcoin("wiki", "admin");
 
 // In this line of code, I simple get the info about the blockchain in general
